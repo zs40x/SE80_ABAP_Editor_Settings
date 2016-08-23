@@ -27,7 +27,7 @@
 	<Code_Completion>
 		<AutoCompletion>1</AutoCompletion>
 		<AutoOpen>0</AutoOpen>
-		<TimeOpen>1500</TimeOpen>
+		<TimeOpen>1000</TimeOpen>
 		<UseExternalDict>0</UseExternalDict>
 		<UseLocalDict>1</UseLocalDict>
 		<QuickInfo>1</QuickInfo>

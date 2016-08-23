@@ -632,7 +632,7 @@
 			<VerbID>Edit.Autocomplete</VerbID>
 			<Descr>Auto complete word</Descr>
 			<Shortcut Shift="0" Ctrl="1" Alt="0" Key="32"/>
-		</HOTKEY>
+			<Shortcut Shift="0" Ctrl="0" Alt="0" Key="0"/><Shortcut Shift="0" Ctrl="1" Alt="1" Key="32"/></HOTKEY>
 		<HOTKEY id="37318">
 			<VerbID>Edit.QuickInfo</VerbID>
 			<Descr>Show Quick Info for current word</Descr>
